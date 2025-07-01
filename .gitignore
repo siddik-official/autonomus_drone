@@ -2,3 +2,4 @@
 !.gitignore
 !/src/
 !/platformio.ini
+!/stm32/
