@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/Arduino-20250630T130005Z-1-001/Arduino/escp32"
+		},
+		{
+			"name": "esp_32_setup",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
